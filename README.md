@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @volhaNedahreyenka
 - 👀 I’m interested in Data Analytics.
-- 🌱 I’m currently a Data Analytics apprentice at COOP.
-- 💞️ On this page I am going to share the projects that I did in Data Analytics.
+- 🌱 I’m a Data Analytics apprenticeship alumni @ COOP.
+- 💞️ On this page I share the projects that I did in Data Analytics.
 
 
 <!---
